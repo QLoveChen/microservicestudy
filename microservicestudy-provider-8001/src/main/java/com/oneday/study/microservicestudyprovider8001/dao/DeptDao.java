@@ -1,6 +1,6 @@
 package com.oneday.study.microservicestudyprovider8001.dao;
 
-import com.onedya.study.microservicestudyapi.entities.DeptEntity;
+import com.oneday.study.microservicestudyapi.entities.DeptEntity;
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;

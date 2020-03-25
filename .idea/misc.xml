@@ -8,6 +8,10 @@
         <option value="$PROJECT_DIR$/microservicestudy-api/pom.xml" />
         <option value="$PROJECT_DIR$/microservicestudy-provider-8001/pom.xml" />
         <option value="$PROJECT_DIR$/microservicestudy-consumer-80/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicestudy-eureka-7001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicestudy-eureka-7002/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicestudy-eureka-7003/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicestudy-provider-8002/pom.xml" />
       </list>
     </option>
   </component>

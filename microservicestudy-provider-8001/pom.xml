@@ -4,18 +4,18 @@
 
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.onedya.study</groupId>
+        <groupId>com.oneday.study</groupId>
         <artifactId>microservicestudy</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>com.onedya.study</groupId>
+    <groupId>com.oneday.study</groupId>
     <artifactId>microservicestudy-provider-dept-8001</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <dependencies>
         <dependency>
-            <groupId>com.onedya.study</groupId>
+            <groupId>com.oneday.study</groupId>
             <artifactId>microservicestudy-api</artifactId>
             <version>${project.version}</version>
         </dependency>
@@ -50,6 +50,16 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
+        </dependency>
+        <!--将微服务provider注册进eureka-->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-eureka</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-config</artifactId>
         </dependency>
         <!--热部署 修改后立即生效-->
         <dependency>

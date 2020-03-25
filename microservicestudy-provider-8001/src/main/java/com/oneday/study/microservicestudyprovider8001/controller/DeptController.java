@@ -1,7 +1,7 @@
 package com.oneday.study.microservicestudyprovider8001.controller;
 
 import com.oneday.study.microservicestudyprovider8001.service.DeptService;
-import com.onedya.study.microservicestudyapi.entities.DeptEntity;
+import com.oneday.study.microservicestudyapi.entities.DeptEntity;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.ServiceInstance;
 import org.springframework.cloud.client.discovery.DiscoveryClient;

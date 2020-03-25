@@ -14,5 +14,16 @@
     注意：
         1.数据库连接：url/name/password
         2.mybatis:type-aliases-package
+///////////////////////////////////////////////////////////
+创建消费者:consumer-80:
+    pom.xml
+    application.yml
+    configBean
+    controller
+    测试地址：先启动8001， 然后启动consumer-80;
+        http://localhost/consumer/dept/findAll
 
-创建消费者
+创建注册中心：Eureka-7001/Eureka-7002/Eureka-7003
+    pom.xml
+    application.yml
+    启动类添加注释

@@ -1,4 +1,4 @@
-package com.onedya.study.microservicestudyapi.entities;
+package com.oneday.study.microservicestudyapi.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

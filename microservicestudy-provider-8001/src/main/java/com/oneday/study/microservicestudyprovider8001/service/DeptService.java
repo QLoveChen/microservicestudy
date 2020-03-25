@@ -1,7 +1,7 @@
 package com.oneday.study.microservicestudyprovider8001.service;
 
 
-import com.onedya.study.microservicestudyapi.entities.DeptEntity;
+import com.oneday.study.microservicestudyapi.entities.DeptEntity;
 
 import java.util.List;
 

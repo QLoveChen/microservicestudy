@@ -1,4 +1,4 @@
-package com.onedya.study.microservicestudyapi;
+package com.oneday.study.microservicestudyapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -4,6 +4,10 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicestudy-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicestudy-consumer-80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicestudy-eureka-7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicestudy-eureka-7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicestudy-eureka-7003" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/microservicestudy-provider-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicestudy-provider-8002" charset="UTF-8" />
   </component>
 </project>
