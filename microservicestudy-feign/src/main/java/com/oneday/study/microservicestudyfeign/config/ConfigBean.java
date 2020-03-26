@@ -1,4 +1,4 @@
-package com.oneday.study.microservicestudyconsumer80.config;
+package com.oneday.study.microservicestudyfeign.config;
 
 import com.netflix.loadbalancer.IRule;
 import com.netflix.loadbalancer.RandomRule;

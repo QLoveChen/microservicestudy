@@ -27,3 +27,21 @@
     pom.xml
     application.yml
     启动类添加注释
+创建ribbon：
+    创建provider-8002/provider-8003
+        pom.xml
+        application.yml
+        启动类注释
+    修改80：
+        添加pom.xml:eureka/ribbon/config
+        添加yml
+        ConfigBean 添加@LoadBalance
+        controller替换请求路径
+    创建feign：
+        pom.xml
+        application.xml
+        启动类
+        在api模块添加service
+        controller
+创建hystrix：
+

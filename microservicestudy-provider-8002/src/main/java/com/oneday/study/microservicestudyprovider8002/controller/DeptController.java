@@ -49,7 +49,7 @@ public class DeptController {
         System.out.println("总共有多少个微服务"+list.size());
 
         //查询STUDY-SPRINGCLOUD-DEPT 服务
-        List<ServiceInstance> instances = discoveryClient.getInstances("MICROSERVICECLOUD-DEPT");
+        List<ServiceInstance> instances = discoveryClient.getInstances("MICROSERVICESTUDY-DEPT");
 
         //打印STUDY-SPRINGCLOUD-DEPT服务信息
         for (ServiceInstance element :instances){

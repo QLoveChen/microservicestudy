@@ -1,6 +1,6 @@
 #配置服务器信息
 server:
-  port: 8001
+  port: 8003
   #context-path: /study 配置根目录
 
 
@@ -48,6 +48,6 @@ eureka:
       defaultZone: http://localhost:7001/eureka,http://localhost:7002/eureka,http://localhost:7003/eureka
   instance:
     #服务实例名称修改
-    instance-id: MICROSERVICESTUDY-DEPT8001
+    instance-id: MICROSERVICESTUDY-DEPT8003
     #访问路径显示IP地址
     prefer-ip-address: true

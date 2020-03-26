@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/microservicestudy-eureka-7002/pom.xml" />
         <option value="$PROJECT_DIR$/microservicestudy-eureka-7003/pom.xml" />
         <option value="$PROJECT_DIR$/microservicestudy-provider-8002/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicestudy-provider-8003/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicestudy-feign/pom.xml" />
       </list>
     </option>
   </component>

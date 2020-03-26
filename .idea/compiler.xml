@@ -9,7 +9,9 @@
         <module name="microservicestudy-provider-8002" />
         <module name="microservicestudy-api" />
         <module name="microservicestudy-consumer-80" />
+        <module name="microservicestudy-provider-8003" />
         <module name="microservicestudy-eureka-7001" />
+        <module name="microservicestudy-feign" />
         <module name="microservicestudy-eureka-7003" />
         <module name="microservicestudy-eureka-7002" />
         <module name="microservicestudy-provider-8001" />
@@ -23,8 +25,10 @@
       <module name="microservicestudy-eureka-7001" options="" />
       <module name="microservicestudy-eureka-7002" options="" />
       <module name="microservicestudy-eureka-7003" options="" />
+      <module name="microservicestudy-feign" options="" />
       <module name="microservicestudy-provider-8001" options="" />
       <module name="microservicestudy-provider-8002" options="" />
+      <module name="microservicestudy-provider-8003" options="" />
     </option>
   </component>
 </project>
