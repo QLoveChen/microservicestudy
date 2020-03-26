@@ -44,4 +44,9 @@
         在api模块添加service
         controller
 创建hystrix：
+    创建hystrix模块：
+        pom.xml
+        application.yml
+
+
 
