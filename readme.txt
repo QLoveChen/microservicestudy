@@ -47,6 +47,11 @@
     创建hystrix模块：
         pom.xml
         application.yml
+     创建hystrix-dashbord模块：
+        pom.xml
+        application.yml
+        启动类：@EnableHystrixDashboard
+        provider-8001/provider-8002/provider-8003  添加pom监控依赖
 
 
 

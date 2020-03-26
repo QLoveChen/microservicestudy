@@ -6,16 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="microservicestudy-hystrix-8001" />
-        <module name="microservicestudy-eureka-7002" />
-        <module name="microservicestudy-provider-8001" />
-        <module name="microservicestudy-api" />
-        <module name="microservicestudy-consumer-80" />
-        <module name="microservicestudy-eureka-7003" />
-        <module name="microservicestudy-feign" />
-        <module name="microservicestudy-provider-8003" />
-        <module name="microservicestudy-provider-8002" />
         <module name="microservicestudy-eureka-7001" />
+        <module name="microservicestudy-provider-8003" />
+        <module name="microservicestudy-api" />
+        <module name="microservicestudy-hystrix-dashbord" />
+        <module name="microservicestudy-consumer-80" />
+        <module name="microservicestudy-provider-8002" />
+        <module name="microservicestudy-eureka-7002" />
+        <module name="microservicestudy-feign" />
+        <module name="microservicestudy-eureka-7003" />
+        <module name="microservicestudy-hystrix-8001" />
+        <module name="microservicestudy-provider-8001" />
       </profile>
     </annotationProcessing>
   </component>
@@ -28,6 +29,7 @@
       <module name="microservicestudy-eureka-7003" options="" />
       <module name="microservicestudy-feign" options="" />
       <module name="microservicestudy-hystrix-8001" options="" />
+      <module name="microservicestudy-hystrix-dashbord" options="" />
       <module name="microservicestudy-provider-8001" options="" />
       <module name="microservicestudy-provider-8002" options="" />
       <module name="microservicestudy-provider-8003" options="" />

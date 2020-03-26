@@ -13,6 +13,7 @@
     <module>microservicestudy-consumer-80</module>
     <module>microservicestudy-feign</module>
     <module>microservicestudy-hystrix-8001</module>
+    <module>microservicestudy-hystrix-dashbord</module>
     <module>microservicestudy-eureka-7001</module>
     <module>microservicestudy-eureka-7002</module>
     <module>microservicestudy-eureka-7003</module>
