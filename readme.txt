@@ -52,6 +52,13 @@
         application.yml
         启动类：@EnableHystrixDashboard
         provider-8001/provider-8002/provider-8003  添加pom监控依赖
+创建zuul：
+    创建zuul模块：
+        pom.xml
+        application.yml
+        启动类：@EnableZuulProxy
+    修改localhost：
+        127.0.0.1 myzuul.com
 
 
 

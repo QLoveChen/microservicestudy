@@ -16,6 +16,7 @@
         <option value="$PROJECT_DIR$/microservicestudy-feign/pom.xml" />
         <option value="$PROJECT_DIR$/microservicestudy-hystrix-8001/pom.xml" />
         <option value="$PROJECT_DIR$/microservicestudy-hystrix-dashbord/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicestudy-zuul-9527/pom.xml" />
       </list>
     </option>
   </component>
